@@ -1,3 +1,15 @@
 <resources>
     <string name="app_name">Calculadora</string>
+    <string name="calculadora_alberto">Calculadora Alberto</string>
+    <string name="boton2">-</string>
+    <string name="boton1">+</string>
+    <string name="boton3">*</string>
+    <string name="boton4">/</string>
+    <string name="operando1">Operando 1:</string>
+    <string name="operando2">Operando 2:</string>
+    <string name="opciones">Selecciona una opcion:</string>
+    <string name="numero1">0</string>
+    <string name="numero2">0</string>
+    <string name="resultado1">Resultado:</string>
+    <string name="resultado2">0</string>
 </resources>
