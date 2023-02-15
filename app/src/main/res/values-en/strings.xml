@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="boton2">-</string>
+    <string name="boton1">+</string>
+    <string name="boton3">*</string>
+    <string name="boton4">/</string>
+    <string name="operando1">Operand 1:</string>
+    <string name="operando2">Operand 2:</string>
+    <string name="opciones">Choose an option:</string>
+    <string name="numero1">0</string>
+    <string name="numero2">0</string>
+    <string name="resultado1">Result:</string>
+    <string name="resultado2">0</string>
+    <string name="calculadora">Alberto´s Calculator</string>
+</resources>
