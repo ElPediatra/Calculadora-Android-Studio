@@ -12,4 +12,5 @@
     <string name="numero2">0</string>
     <string name="resultado1">Resultado:</string>
     <string name="resultado2">0</string>
+    <string name="limpiar">Limpiar</string>
 </resources>

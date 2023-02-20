@@ -123,6 +123,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="8dp"
+        android:autofillHints=""
         android:ems="10"
         android:hint="@string/numero2"
         android:inputType="number|numberSigned"
@@ -130,8 +131,7 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.5"
         app:layout_constraintStart_toEndOf="@+id/operando2"
-        app:layout_constraintTop_toBottomOf="@+id/numero1"
-        android:autofillHints="" />
+        app:layout_constraintTop_toBottomOf="@+id/numero1" />
 
     <TextView
         android:id="@+id/resultado1"
@@ -156,5 +156,16 @@
         app:layout_constraintStart_toEndOf="@+id/resultado1"
         app:layout_constraintTop_toBottomOf="@+id/numero2"
         app:layout_constraintVertical_bias="0.20999998" />
+
+    <Button
+        android:id="@+id/botonLimpiar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/limpiar"
+        app:layout_constraintBottom_toTopOf="@+id/nombre"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.5" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

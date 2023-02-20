@@ -13,4 +13,5 @@
     <string name="resultado1">Result:</string>
     <string name="resultado2">0</string>
     <string name="calculadora">Alberto´s Calculator</string>
+    <string name="limpiar">Clear</string>
 </resources>
